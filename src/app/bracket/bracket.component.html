@@ -1,0 +1,74 @@
+<div class="bracket" [ngStyle]="style">
+    <div class="title" (click)="toggleDisplayMaps()">{{bracket?.matchId}}</div>
+    <div class="team1" [ngClass]="team1Class" (click)="select(bracket?.matchId, bracket?.teamId1?.name)">{{bracket?.teamId1?.name}}</div>
+    <div class="team2" [ngClass]="team2Class" (click)="select(bracket?.matchId, bracket?.teamId2?.name)">{{bracket?.teamId2?.name}}</div>
+    <div class="maps" [style]="{'display': hasToDisplay ? 'block' : 'none'}">
+        <table>
+            <tbody>
+                <tr>
+                    <td>{{bracket?.match?.map1?.name}}</td>
+                    <td>{{bracket?.match?.map1?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map1?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map1?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map1?.affix3}}.jpg">
+                    </td>
+                </tr>
+                <tr>
+                    <td>{{bracket?.match?.map2?.name}}</td>
+                    <td>{{bracket?.match?.map2?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map2?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map2?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map2?.affix3}}.jpg">
+                    </td>
+                </tr>
+                <tr>
+                    <td>{{bracket?.match?.map3?.name}}</td>
+                    <td>{{bracket?.match?.map3?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map3?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map3?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map3?.affix3}}.jpg">
+                    </td>
+                </tr>
+                <tr>
+                    <td>{{bracket?.match?.map4?.name}}</td>
+                    <td>{{bracket?.match?.map4?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map4?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map4?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map4?.affix3}}.jpg">
+                    </td>
+                </tr>
+                <tr>
+                    <td>{{bracket?.match?.map5?.name}}</td>
+                    <td>{{bracket?.match?.map5?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map5?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map5?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map5?.affix3}}.jpg">
+                    </td>
+                </tr>
+                <tr *ngIf="bracket !== undefined && bracket.match.map6 !== undefined">
+                    <td>{{bracket?.match?.map6?.name}}</td>
+                    <td>{{bracket?.match?.map6?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map6?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map6?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map6?.affix3}}.jpg">
+                    </td>
+                </tr>
+                <tr *ngIf="bracket !== undefined && bracket.match.map7 !== undefined">
+                    <td>{{bracket?.match?.map7?.name}}</td>
+                    <td>{{bracket?.match?.map7?.level}}</td>
+                    <td>
+                        <img src="assets/img/{{bracket?.match?.map7?.affix1}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map7?.affix2}}.jpg">
+                        <img src="assets/img/{{bracket?.match?.map7?.affix3}}.jpg">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

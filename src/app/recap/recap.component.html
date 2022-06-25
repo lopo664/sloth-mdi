@@ -1,0 +1,18 @@
+<div class="recap">
+    <div [style]="{'display': mapsOrTeams ? 'block' : 'none'}">
+        <div *ngFor="let map of maps" class="map">
+            <div class="mapName">{{map.name}}</div>
+            <div class="teamName" *ngFor="let team of teams">{{team.name}}: {{getFromMapTeam({teamName: team.name, mapName: map.name, mustPlay: false})}} ({{getFromMapTeam({teamName: team.name, mapName: map.name, mustPlay: true})}})</div>
+        </div>
+    </div>
+    <div [style]="{'display': !mapsOrTeams ? 'block' : 'none'}">
+        <div *ngFor="let team of teams" class="map">
+            <div class="mapName">{{team.name}}</div>
+            <div class="teamName" *ngFor="let map of maps">{{map.name}}: {{getFromMapTeam({teamName: team.name, mapName: map.name, mustPlay: false})}} ({{getFromMapTeam({teamName: team.name, mapName: map.name, mustPlay: true})}})</div>
+        </div>
+    </div>
+    <div class="buttons">
+        <button (click)="refreshDataBrackets()">Refrescar Datos</button>
+        <button (click)="mapsOrTeams = !mapsOrTeams">Alternar Mapas y Equipos</button>
+    </div>
+</div>

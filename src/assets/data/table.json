@@ -1,0 +1,156 @@
+[
+    {
+        "matchId": "MATCH 1",
+        "teamId1": "ECHO",
+        "teamId2": "SLOTH",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 5",
+        "nextMatchIdLoser": "MATCH 7"
+    },
+    {
+        "matchId": "MATCH 2",
+        "teamId1": "LONG MING",
+        "teamId2": "PERPLEXED",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 5",
+        "nextMatchIdLoser": "MATCH 7"
+    },
+    {
+        "matchId": "MATCH 3",
+        "teamId1": "DONUTS & DESPAIR",
+        "teamId2": "BALDY",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 6",
+        "nextMatchIdLoser": "MATCH 8"
+    },
+    {
+        "matchId": "MATCH 4",
+        "teamId1": "MONKA",
+        "teamId2": "W OMEGALUL",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 6",
+        "nextMatchIdLoser": "MATCH 8"
+    },
+    {
+        "matchId": "MATCH 5",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 11",
+        "nextMatchIdLoser": "MATCH 10"
+    },
+    {
+        "matchId": "MATCH 6",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 11",
+        "nextMatchIdLoser": "MATCH 9"
+    },
+    {
+        "matchId": "MATCH 7",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 9",
+        "nextMatchIdLoser": ""
+    },
+    {
+        "matchId": "MATCH 8",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 10",
+        "nextMatchIdLoser": ""
+    },
+    {
+        "matchId": "MATCH 9",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 12",
+        "nextMatchIdLoser": ""
+    },
+    {
+        "matchId": "MATCH 10",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 12",
+        "nextMatchIdLoser": ""
+    },
+    {
+        "matchId": "MATCH 11",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 14",
+        "nextMatchIdLoser": "MATCH 13"
+    },
+    {
+        "matchId": "MATCH 12",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 13",
+        "nextMatchIdLoser": ""
+    },
+    {
+        "matchId": "MATCH 13",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "MATCH 14",
+        "nextMatchIdLoser": ""
+    },
+    {
+        "matchId": "MATCH 14",
+        "teamId1": "",
+        "teamId2": "",
+        "winner": "",
+        "loser": "",
+        "teamId1Ban": "",
+        "teamId2Ban": "",
+        "nextMatchIdWinner": "",
+        "nextMatchIdLoser": ""
+    }
+]

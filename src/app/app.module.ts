@@ -3,10 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { BracketComponent } from './bracket/bracket.component';
+import { RecapComponent } from './recap/recap.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BracketComponent,
+    RecapComponent
   ],
   imports: [
     BrowserModule,
