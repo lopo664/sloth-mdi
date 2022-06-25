@@ -1,0 +1,142 @@
+[
+    {
+        "matchId": "MATCH 1",
+        "map1": "TAZAVESH: GAMBIT",
+        "map2": "MISTS OF TIRNA SCITHE",
+        "map3": "TAZAVESH: STREETS",
+        "map4": "HALLS OF ATONEMENT",
+        "map5": "PLAGUEFALL",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 2",
+        "map1": "SPIRES OF ASCENSION",
+        "map2": "HALLS OF ATONEMENT",
+        "map3": "PLAGUEFALL",
+        "map4": "MISTS OF TIRNA SCITHE",
+        "map5": "THEATER OF PAIN",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 3",
+        "map1": "TAZAVESH: GAMBIT",
+        "map2": "MISTS OF TIRNA SCITHE",
+        "map3": "TAZAVESH: STREETS",
+        "map4": "HALLS OF ATONEMENT",
+        "map5": "PLAGUEFALL",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 4",
+        "map1": "SPIRES OF ASCENSION",
+        "map2": "HALLS OF ATONEMENT",
+        "map3": "PLAGUEFALL",
+        "map4": "MISTS OF TIRNA SCITHE",
+        "map5": "THEATER OF PAIN",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 5",
+        "map1": "THEATER OF PAIN",
+        "map2": "TAZAVESH: GAMBIT",
+        "map3": "SANGUINE DEPTHS",
+        "map4": "DE OTHER SIDE",
+        "map5": "THE NECROTIC WAKE",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 6",
+        "map1": "TAZAVESH: STREETS",
+        "map2": "DE OTHER SIDE",
+        "map3": "THE NECROTIC WAKE",
+        "map4": "SPIRES OF ASCENSION",
+        "map5": "SANGUINE DEPTHS",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 7",
+        "map1": "THEATER OF PAIN",
+        "map2": "TAZAVESH: GAMBIT",
+        "map3": "SANGUINE DEPTHS",
+        "map4": "DE OTHER SIDE",
+        "map5": "THE NECROTIC WAKE",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 8",
+        "map1": "TAZAVESH: STREETS",
+        "map2": "DE OTHER SIDE",
+        "map3": "THE NECROTIC WAKE",
+        "map4": "SPIRES OF ASCENSION",
+        "map5": "SANGUINE DEPTHS",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 9",
+        "map1": "MISTS OF TIRNA SCITHE",
+        "map2": "THEATER OF PAIN",
+        "map3": "TAZAVESH: STREETS",
+        "map4": "TAZAVESH: GAMBIT",
+        "map5": "SPIRES OF ASCENSION",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 10",
+        "map1": "SANGUINE DEPTHS",
+        "map2": "THEATER OF PAIN",
+        "map3": "TAZAVESH: GAMBIT",
+        "map4": "TAZAVESH: STREETS",
+        "map5": "MISTS OF TIRNA SCITHE",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 11",
+        "map1": "DE OTHER SIDE",
+        "map2": "HALLS OF ATONEMENT",
+        "map3": "TAZAVESH: GAMBIT",
+        "map4": "SANGUINE DEPTHS",
+        "map5": "PLAGUEFALL",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 12",
+        "map1": "SPIRES OF ASCENSION",
+        "map2": "TAZAVESH: STREETS",
+        "map3": "MISTS OF TIRNA SCITHE",
+        "map4": "DE OTHER SIDE",
+        "map5": "THE NECROTIC WAKE",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 13",
+        "map1": "THEATER OF PAIN",
+        "map2": "HALLS OF ATONEMENT",
+        "map3": "PLAGUEFALL",
+        "map4": "TAZAVESH: GAMBIT",
+        "map5": "SPIRES OF ASCENSION",
+        "map6": "",
+        "map7": ""
+    },
+    {
+        "matchId": "MATCH 14",
+        "map1": "THE NECROTIC WAKE",
+        "map2": "TAZAVESH: STREETS",
+        "map3": "HALLS OF ATONEMENT",
+        "map4": "PLAGUEFALL",
+        "map5": "DE OTHER SIDE",
+        "map6": "THEATER OF PAIN",
+        "map7": "SPIRES OF ASCENSION"
+    }
+]

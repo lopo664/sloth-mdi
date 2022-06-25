@@ -1,0 +1,72 @@
+[
+    {
+        "name": "THEATER OF PAIN",
+        "level": "22",
+        "affix1": "FORTIFIED",
+        "affix2": "BURSTING",
+        "affix3": "STORMING"
+    },
+    {
+        "name": "SANGUINE DEPTHS",
+        "level": "22",
+        "affix1": "FORTIFIED",
+        "affix2": "RAGING",
+        "affix3": "EXPLOSIVE"
+    },
+    {
+        "name": "TAZAVESH: STREETS",
+        "level": "23",
+        "affix1": "TYRANNICAL",
+        "affix2": "BOLSTERING",
+        "affix3": "EXPLOSIVE"
+    },
+    {
+        "name": "TAZAVESH: GAMBIT",
+        "level": "23",
+        "affix1": "TYRANNICAL",
+        "affix2": "SANGUINE",
+        "affix3": "STORMING"
+    },
+    {
+        "name": "SPIRES OF ASCENSION",
+        "level": "23",
+        "affix1": "FORTIFIED",
+        "affix2": "SANGUINE",
+        "affix3": "GRIEVOUS"
+    },
+    {
+        "name": "MISTS OF TIRNA SCITHE",
+        "level": "24",
+        "affix1": "FORTIFIED",
+        "affix2": "BOLSTERING",
+        "affix3": "QUAKING"
+    },
+    {
+        "name": "HALLS OF ATONEMENT",
+        "level": "24",
+        "affix1": "FORTIFIED",
+        "affix2": "SPITEFUL",
+        "affix3": "NECROTIC"
+    },
+    {
+        "name": "DE OTHER SIDE",
+        "level": "24",
+        "affix1": "TYRANNICAL",
+        "affix2": "INSPIRING",
+        "affix3": "QUAKING"
+    },
+    {
+        "name": "THE NECROTIC WAKE",
+        "level": "25",
+        "affix1": "FORTIFIED",
+        "affix2": "INSPIRING",
+        "affix3": "GRIEVOUS"
+    },
+    {
+        "name": "PLAGUEFALL",
+        "level": "25",
+        "affix1": "TYRANNICAL",
+        "affix2": "RAGING",
+        "affix3": "VOLCANIC"
+    }
+]
